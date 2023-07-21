@@ -12,7 +12,7 @@ Hi, I'm Stephane, I’m interested  👀 in developing my skills in coding and w
 
 - PHP, JS :robot:
 - Open source :octocat:
-- coffe :coffee:
+- Coffe :coffee:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stéphanekoeniguer)
