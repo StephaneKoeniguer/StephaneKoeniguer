@@ -5,7 +5,7 @@
 
 ## About me
 
-Hi, I'm Stephane, I’m interested  👀 in developing my skills in coding and web creations. I’m currently learning Symfony, React. I’m looking to collaborate on différent projects that can boost my web culture 💞.<br>
+Hi, I'm Stephane, I’m interested  👀 in developing my skills in coding and web creations. I’m currently learning Symfony, Javascript. I’m looking to collaborate on différent projects that can boost my web culture 💞.<br>
 📫 How to reach me ? You can use my LinkedIn : Stephane Koeniguer
 
 ## Things I am passionate about
