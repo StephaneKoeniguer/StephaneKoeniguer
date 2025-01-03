@@ -28,6 +28,7 @@ Hi, I'm Stephane, I’m interested  👀 in developing my skills in coding and w
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![API Platform](https://img.shields.io/badge/Api%20Platform-2D55D2?style=for-the-badge&logo=api-platform&logoColor=white)
 ![Twig Logo](https://img.shields.io/badge/Twig-8FB51C?style=for-the-badge&logo=twig&logoColor=white)
 ![Doctrine Logo](https://img.shields.io/badge/Doctrine-326CE5?style=for-the-badge&logo=doctrine&logoColor=white)
 ![Composer Logo](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
