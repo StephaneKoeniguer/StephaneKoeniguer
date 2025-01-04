@@ -33,6 +33,7 @@ Hi, I'm Stephane, I’m interested  👀 in developing my skills in coding and w
 ![Doctrine Logo](https://img.shields.io/badge/Doctrine-326CE5?style=for-the-badge&logo=doctrine&logoColor=white)
 ![Composer Logo](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Linux Logo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira Logo](https://img.shields.io/badge/Jira-34B233?style=for-the-badge&logo=your-logo&logoColor=white)
