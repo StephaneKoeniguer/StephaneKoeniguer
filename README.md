@@ -28,6 +28,7 @@ I’m passionate about enhancing my coding skills and exploring creative web dev
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-34B233?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![API Platform](https://img.shields.io/badge/Api%20Platform-2D55D2?style=for-the-badge&logo=api-platform&logoColor=white)
 ![Twig Logo](https://img.shields.io/badge/Twig-8FB51C?style=for-the-badge&logo=twig&logoColor=white)
@@ -38,4 +39,4 @@ I’m passionate about enhancing my coding skills and exploring creative web dev
 ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%2334B233.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=darkorchid&labelColor=darkorchid)
