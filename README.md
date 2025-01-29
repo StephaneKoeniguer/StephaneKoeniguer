@@ -11,7 +11,7 @@ I’m passionate about enhancing my coding skills and exploring creative web dev
 
 ## Things I am passionate about
 
-- PHP, JS, React ANtive :robot:
+- PHP, JS, React Native :robot:
 - Open source :octocat:
 - Coffe :coffee:
 
