@@ -11,7 +11,7 @@ I’m a passionate web developer dedicated to refining my coding skills and expl
 
 ## Things I am passionate about
 
-- PHP, JS, JAVA :robot:
+- PHP, JS :robot:
 - Open source :octocat:
 - Coffe :coffee:
 
@@ -20,7 +20,6 @@ I’m a passionate web developer dedicated to refining my coding skills and expl
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-34B233?style=for-the-badge&logo=php&logoColor=white)
