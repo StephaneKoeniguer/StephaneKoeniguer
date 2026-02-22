@@ -1,8 +1,5 @@
 # Hey there :wave:
 
-<img src="https://cdn-images-1.medium.com/max/2600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="welcome banner" >
-
-
 ## About me
 
 Hi, I’m Stéphane !<br><br>
