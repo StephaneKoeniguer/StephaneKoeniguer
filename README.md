@@ -3,12 +3,6 @@
 Hi, I’m Stéphane !<br><br>
 I’m a passionate web developer dedicated to refining my coding skills and exploring innovative solutions in web development. Currently, I’m delving deeper into Symfony and JavaScript, and I’m excited to collaborate on impactful projects that broaden my expertise and fuel my creativity. Let’s build something amazing together ! 💻✨<br><br>
 
-## Things I am passionate about
-
-- PHP, JS :robot:
-- Open source :octocat:
-- Coffe :coffee:
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
