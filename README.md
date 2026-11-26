@@ -10,7 +10,7 @@ I like building tools that solve the real problems I run into, and I'm now looki
 A server log viewer (Apache, vsftpd, xferlog, JSON/Monolog) with an error timeline, filters and an automatic summary.
 Everything runs in the browser and no data is sent anywhere. A one-million-line file is parsed in a few seconds.
 `JavaScript` `Web Worker` `CSP`
-→ [Try it](https://lisible.net) · [Project details](https://github.com/[username]/lisible)
+→ [Try it](https://lisible.net) · [Project details](https://github.com/StephaneKoeniguer/lisible.net)
  
 ### Ticker · *in progress*
 A portfolio tracking : automatic price updates (Twelvedata API), currency conversion and a trading journal.
